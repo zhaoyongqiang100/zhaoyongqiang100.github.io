@@ -169,7 +169,7 @@
                 ctx.moveTo(0, 0);
                 ctx.scale(0.5, 0.5);
                 ctx.font = "8px 微软雅黑,Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
-                ctx.fillText("33333,点一下我的心", 40, 20);
+                ctx.fillText("444,点一下我的心", 40, 20);
                 ctx.restore();
             },4500)
 
