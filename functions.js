@@ -37,7 +37,7 @@ $(window).resize(function() {
                         $("#a1,#a2,#a3,#a4,#a5,#a6,#a7,#a8").addClass("fontCls");
                     },1000)
                 }
-			}, 200);
+			}, 400);
 		});
 		return this;
 	};
