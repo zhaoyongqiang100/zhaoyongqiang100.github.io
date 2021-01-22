@@ -460,8 +460,8 @@
             ctx.save();
         	ctx.beginPath();
         	// ctx.fillStyle = 'rgb(35, 31, 32)';
-        	ctx.fillStyle = '#0f0';
-            ctx.shadowColor = '#0f0';
+        	ctx.fillStyle = '#378077';
+            ctx.shadowColor = '#378077';
 			// ctx.shadowColor = 'rgb(35, 31, 32)';
             ctx.shadowBlur = 2;
         	ctx.moveTo(p.x, p.y);
