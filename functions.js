@@ -31,7 +31,7 @@ $(window).resize(function() {
 				if (progress >= str.length) {
 					clearInterval(timer);
                     $("#a1,#a2,#a3,#a4,#a5,#a6,#a7,#a8").animate({
-                        fontSize:'32px'
+                        fontSize:'36px'
                     },1000);
                     setTimeout(function(){
                         $("#a1,#a2,#a3,#a4,#a5,#a6,#a7,#a8").addClass("fontCls");
