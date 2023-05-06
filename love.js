@@ -171,7 +171,7 @@
                 ctx.font = "8px 微软雅黑,Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
                 ctx.fillText("臭妹妹点一下这颗红心", 40, 20);
                 ctx.restore();
-            },3500)
+            },1500)
 
         },
         clear: function() {
